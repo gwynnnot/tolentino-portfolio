@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gwy!
 
-👩🏻‍💻 Computer Science student at the **University of the Philippines Los Baños**
-🎨 Currently diving into **front-end web and mobile development**, with a passion for creating clean, responsive, and user-friendly interfaces
+👩🏻‍💻 Computer Science student at the **University of the Philippines Los Baños**<br/>
+🎨 Currently diving into **front-end web and mobile development**, with a passion for creating clean, responsive, and user-friendly interfaces<br/>
 🌱 I’m always learning and exploring new technologies to build better, faster, and more accessible apps!
 
 ---
